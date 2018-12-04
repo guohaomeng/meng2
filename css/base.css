@@ -83,7 +83,7 @@
       font-size: 22px;
       text-indent: 0em;}
     /*设置链接样式*/
-    a:link {
+    a:link {color:orange;
             text-decoration: none;}
     a:visited {color:orange;}
     #p1{line-height:1.3em;
